@@ -52,6 +52,9 @@ h4{
     font-weight: 500;
 }
 
+sub {
+    font-weight: 400;
+}
 .ul {
     font-size: 1rem;
     width: 300px;
