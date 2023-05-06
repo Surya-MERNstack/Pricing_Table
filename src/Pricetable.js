@@ -29,8 +29,8 @@ function Price () {
                        <span className="check_3"><Check2/> </span>
                         Unlimited Public Projects
                     </li>  <br/>
-                    <li className="light-font">
-                    <span className="check_4"><XLg/> </span>
+                    <li>
+                    <span className="check_4"><Check2/> </span>
                         Community Access
                     </li>  <br/>
                     <li className="light-font">
