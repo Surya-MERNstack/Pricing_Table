@@ -52,7 +52,7 @@ function Price () {
                 <button className="btn">BUTTON</button>
            </div>
            <div className="child_2">
-           <h4>FREE</h4> 
+           <h4>PLUS</h4> 
               <span>
                 <span className="font-month">$9</span>
                 <sub>/month</sub>
